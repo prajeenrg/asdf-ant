@@ -2,7 +2,6 @@
 
 set -euo pipefail
 
-GH_REPO="https://github.com/apache/ant"
 DIST_URL="https://archive.apache.org/dist/ant/binaries"
 TOOL_NAME="ant"
 TOOL_TEST="ant --help"
